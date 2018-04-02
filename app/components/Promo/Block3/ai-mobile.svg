@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="320px" transform="translate(-130.000000, -2600.000000)">
+            <g id="3" transform="translate(0.000000, 2449.000000)">
+                <g id="2" transform="translate(25.000000, 151.000000)">
+                    <g id="icon" transform="translate(105.000000, 0.000000)">
+                        <g id="Page-1">
+                            <path d="M14,51 L14,58 L14,51 Z" id="Stroke-1" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M22,51 L22,58" id="Stroke-3" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M30,51 L30,58" id="Stroke-5" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M38,51 L38,58" id="Stroke-7" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M46,51 L46,58" id="Stroke-9" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M14,2 L14,9" id="Stroke-11" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M22,2 L22,9" id="Stroke-13" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M30,2 L30,9" id="Stroke-15" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M38,2 L38,9" id="Stroke-17" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M46,2 L46,9" id="Stroke-19" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M9,14 L2,14" id="Stroke-21" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M9,22 L2,22" id="Stroke-23" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M9,30 L2,30" id="Stroke-25" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M9,38 L2,38" id="Stroke-27" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M9,46 L2,46" id="Stroke-29" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M58,14 L51,14" id="Stroke-31" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M58,22 L51,22" id="Stroke-33" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M58,30 L51,30" id="Stroke-35" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M58,38 L51,38" id="Stroke-37" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M58,46 L51,46" id="Stroke-39" stroke="#74878D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M11,51 L49,51 L49,51 C50.1045695,51 51,50.1045695 51,49 L51,11 L51,11 C51,9.8954305 50.1045695,9 49,9 L11,9 L11,9 C9.8954305,9 9,9.8954305 9,11 L9,49 L9,49 C9,50.1045695 9.8954305,51 11,51 Z" id="Stroke-47" fill="#74878D"></path>
+                            <path d="M24.38,26.22 L22.62,31.16 L26.1,31.16 L24.38,26.22 Z M28.56,37.18 L26.88,33.06 L21.86,33.06 C21.32,34.34 20.62,36.02 20.18,37.18 L18,37.18 L23.62,23 L25.1,23 L30.72,37.18 L28.56,37.18 Z M40.36,23.2 L33.14,23.2 L33.14,25.2 L35.74,25.2 L35.74,35.16 L33.14,35.16 L33.14,37.18 L40.36,37.18 L40.36,35.16 L37.76,35.16 L37.76,25.2 L40.36,25.2 L40.36,23.2 Z" id="Ai" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="254px" height="259px" viewBox="0 0 254 259" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>illustration</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="320px" transform="translate(-44.000000, -7039.000000)">
+            <g id="6" transform="translate(0.000000, 6140.000000)">
+                <g id="6.2" transform="translate(0.000000, 890.000000)">
+                    <g id="illustration">
+                        <g id="img">
+                            <rect id="BG" x="0" y="0" width="320" height="280"></rect>
+                        </g>
+                        <g id="Unit" transform="translate(44.000000, 9.000000)">
+                            <polygon id="Rectangle-4" fill-opacity="0.5" fill="#404E54" points="44 218 135 218 135 221 44 221"></polygon>
+                            <path d="M134.685194,219 L174,219 C176.209139,219 178,217.209139 178,215 L178,6 C178,3.790861 176.209139,2 174,2 L6,2 C3.790861,2 2,3.790861 2,6 L2,215 C2,217.209139 3.790861,219 6,219 L45.3148063,219 L49.1262412,199.677682 C50.2355515,194.053961 55.1672959,190 60.8993818,190 L119.100618,190 C124.832704,190 129.764448,194.053961 130.873759,199.677682 L134.685194,219 Z" id="Combined-Shape" stroke="#404E54" stroke-width="4"></path>
+                        </g>
+                        <g id="2" transform="translate(238.000000, 9.000000)">
+                            <rect id="Rectangle-12" fill="#404E54" opacity="0.25" x="17" y="0" width="1" height="221"></rect>
+                            <rect id="Rectangle-13" fill="#FFFFFF" x="16" y="87" width="3" height="48"></rect>
+                            <rect id="Rectangle-9" fill="#404E54" opacity="0.25" x="7" y="0" width="10" height="1"></rect>
+                            <rect id="Rectangle-9-Copy" fill="#404E54" opacity="0.25" x="7" y="220" width="10" height="1"></rect>
+                            <text id="12.5-in.-(320-mm)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#404E54">
+                                <tspan x="0" y="108">12.5 in. </tspan>
+                                <tspan x="0" y="124">(320 mm)</tspan>
+                            </text>
+                        </g>
+                        <g id="1" transform="translate(44.000000, 250.000000)">
+                            <g id="Group">
+                                <rect id="Rectangle-10" fill="#404E54" opacity="0.25" x="0" y="10" width="180" height="1"></rect>
+                                <rect id="Rectangle-11" fill="#404E54" opacity="0.25" x="0" y="0" width="1" height="10"></rect>
+                                <rect id="Rectangle-11-Copy" fill="#404E54" opacity="0.25" x="179" y="0" width="1" height="10"></rect>
+                                <rect id="Rectangle-7" fill="#FFFFFF" x="29" y="9" width="122" height="3"></rect>
+                            </g>
+                            <text id="8.6-in.-(220-mm)" font-family="ArialMT, Arial" font-size="14" font-weight="normal" fill="#404E54">
+                                <tspan x="39.0761719" y="15">8.6 in. (220 mm)</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

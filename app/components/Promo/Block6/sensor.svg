@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="386px" height="387px" viewBox="0 0 386 387" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Sensor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1070px" transform="translate(-95.000000, -9667.000000)">
+            <g id="7" transform="translate(65.000000, 9407.000000)">
+                <g id="7.1" transform="translate(0.000000, 223.000000)">
+                    <g id="Img">
+                        <g id="Sensor" transform="translate(30.000000, 37.000000)">
+                            <g id="Sensor2" transform="translate(210.000000, 211.000000)">
+                                <path d="M16,2 C8.2680135,2 2,8.2680135 2,16 L2,160 C2,167.731986 8.2680135,174 16,174 L160,174 C167.731986,174 174,167.731986 174,160 L174,16 C174,8.2680135 167.731986,2 160,2 L16,2 Z" id="Rectangle-2" stroke="#404E54" stroke-width="4"></path>
+                                <path d="M18,9 C13.0294373,9 9,13.0294373 9,18 L9,158 C9,162.970563 13.0294373,167 18,167 L158,167 C162.970563,167 167,162.970563 167,158 L167,18 C167,13.0294373 162.970563,9 158,9 L18,9 Z" id="Rectangle-2" stroke="#404E54" stroke-width="2"></path>
+                                <polygon id="Rectangle-3" fill="#404E54" points="0 84 8 84 8 88 0 88"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#404E54" points="166 84 174 84 174 88 166 88"></polygon>
+                                <circle id="Oval-2" stroke="#404E54" stroke-width="2" opacity="0.5" cx="44" cy="88" r="11"></circle>
+                                <circle id="Oval-2-Copy" stroke="#404E54" stroke-width="2" opacity="0.5" cx="88" cy="88" r="11"></circle>
+                                <circle id="Oval-2-Copy-2" stroke="#404E54" stroke-width="2" opacity="0.5" cx="132" cy="88" r="11"></circle>
+                            </g>
+                            <g id="Sensor1">
+                                <path d="M16,2 C8.2680135,2 2,8.2680135 2,16 L2,160 C2,167.731986 8.2680135,174 16,174 L160,174 C167.731986,174 174,167.731986 174,160 L174,16 C174,8.2680135 167.731986,2 160,2 L16,2 Z" id="Rectangle-2" stroke="#404E54" stroke-width="4"></path>
+                                <path d="M18,9 C13.0294373,9 9,13.0294373 9,18 L9,158 C9,162.970563 13.0294373,167 18,167 L158,167 C162.970563,167 167,162.970563 167,158 L167,18 C167,13.0294373 162.970563,9 158,9 L18,9 Z" id="Rectangle-2" stroke="#404E54" stroke-width="2"></path>
+                                <polygon id="Rectangle-3" fill="#404E54" points="0 86 8 86 8 90 0 90"></polygon>
+                                <polygon id="Rectangle-3-Copy-2" fill="#404E54" points="166 86 172 86 172 90 166 90"></polygon>
+                                <circle id="Oval-2" stroke="#404E54" stroke-width="2" opacity="0.5" cx="44" cy="88" r="11"></circle>
+                                <circle id="Oval-2-Copy" stroke="#404E54" stroke-width="2" opacity="0.5" cx="88" cy="88" r="11"></circle>
+                                <circle id="Oval-2-Copy-2" stroke="#404E54" stroke-width="2" opacity="0.5" cx="132" cy="88" r="11"></circle>
+                            </g>
+                            <g id="1" transform="translate(0.000000, 201.000000)">
+                                <rect id="Rectangle-15" fill-opacity="0.25" fill="#404E54" x="0" y="10" width="175" height="1"></rect>
+                                <rect id="Rectangle-18" fill-opacity="0.25" fill="#404E54" x="0" y="0" width="1" height="10"></rect>
+                                <rect id="Rectangle-15-Copy" fill-opacity="0.25" fill="#404E54" x="174" y="11" width="1" height="175"></rect>
+                                <rect id="Rectangle-19" fill-opacity="0.25" fill="#404E54" x="175" y="185" width="10" height="1"></rect>
+                                <rect id="Rectangle-16" fill="#FFFFFF" x="113" y="6" width="68" height="52"></rect>
+                                <text id="4.7-in.-(120-mm)" font-family="ArialMT, Arial" font-size="18" font-weight="normal" fill="#404E54">
+                                    <tspan x="132.96582" y="19">4.7 in. </tspan>
+                                    <tspan x="104.990234" y="39">(120 mm)</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

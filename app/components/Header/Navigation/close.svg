@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Menu" transform="translate(-10.000000, -5.000000)">
+            <g id="Navbar">
+                <g id="icon" transform="translate(10.000000, 5.000000)">
+                    <rect id="BG" fill="#FFFFFF" x="0" y="0" width="40" height="40" rx="20"></rect>
+                    <g id="Group" transform="translate(20.000000, 20.000000) rotate(-315.000000) translate(-20.000000, -20.000000) translate(10.000000, 19.000000)" fill="#FF5C5D">
+                        <rect id="Rectangle" x="0" y="0" width="20" height="2"></rect>
+                    </g>
+                    <g id="Group-Copy" transform="translate(20.000000, 20.000000) rotate(-225.000000) translate(-20.000000, -20.000000) translate(10.000000, 19.000000)" fill="#FF5C5D">
+                        <rect id="Rectangle" x="0" y="0" width="20" height="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

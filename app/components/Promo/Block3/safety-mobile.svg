@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="320px" transform="translate(-130.000000, -3450.000000)">
+            <g id="3" transform="translate(0.000000, 2449.000000)">
+                <g id="2-copy-2" transform="translate(30.000000, 1001.000000)">
+                    <g id="icon" transform="translate(100.000000, 0.000000)">
+                        <g id="Group-17" transform="translate(1.000000, 6.004400)">
+                            <path d="M-3.55271368e-15,25 L27.6941208,1.12575797 L27.6941208,1.12575797 C28.4445326,0.4788512 29.5554674,0.4788512 30.3058792,1.12575797 L58,25 L-3.55271368e-15,25 Z" id="Stroke-11" fill="#74878D"></path>
+                            <path d="M51,20 L51,46 L51,46 C51,47.1045695 50.1045695,48 49,48 L9,48 L9,48 C7.8954305,48 7,47.1045695 7,46 L7,20 L51,20 Z" id="Stroke-13" fill="#74878D"></path>
+                            <circle id="Oval-3" fill="#FFFFFF" cx="29" cy="29" r="11"></circle>
+                            <rect id="Rectangle-8" fill="#74878D" x="28" y="22" width="2" height="8" rx="1"></rect>
+                            <rect id="Rectangle-8-Copy" fill="#74878D" x="28" y="28" width="6" height="2" rx="1"></rect>
+                            <polyline id="Stroke-15" fill="#74878D" points="50 17.9092 50 1.9992 38 1.9992 38 7.7352"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
